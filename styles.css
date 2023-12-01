@@ -1,0 +1,35 @@
+nav {
+    background-color: gray;
+}
+
+nav div {
+    display: inline-block;
+    padding: 10px;
+    background-color: darkgray;
+}
+
+.leftContainer {
+    background-color: blue;
+    width: 29%;
+    height: 500px;
+    float: left;
+
+}
+
+.rightContainer {
+    width: 70%;
+    height: 500px;
+    background-color: green;
+    float: left;
+
+}
+
+.top {
+    height: 30%;
+    background-color: aqua;
+}
+
+.bottom {
+    height: 50px;
+    background-color: orange;
+}
