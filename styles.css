@@ -12,15 +12,17 @@ nav div {
     background-color: blue;
     width: 29%;
     height: 500px;
-    float: left;
+    display: inline-block;
+    position: absolute;
 
 }
 
 .rightContainer {
     width: 70%;
     height: 500px;
-    background-color: green;
-    float: left;
+    background-color: teal;
+    display: inline-block;
+  
 
 }
 
@@ -33,4 +35,14 @@ nav div {
     height: 70%;
     background-color:bisque;
 
+}
+
+#b1 {
+    max-height: 100%;
+    width: auto;
+
+}
+
+.my_services {
+    padding-left: ;
 }
